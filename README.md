@@ -7,7 +7,7 @@
 # Dataset used - 
 I have used this [datset](https://www.kaggle.com/pranavraikokte/covid19-image-dataset) from Kaggle which contains 250 training and 65 testing images for our model.
 
-![alt text](https://github.com/senpinaki222/covid-chest-xray-classifier-classical/blob/main/images/test-1.png?raw=true)
+![alt text](https://github.com/senpinaki222/covid-chest-xray-classifier-classical/blob/main/images/image-grid.png?raw=true)
 
 ---
 # Plotting accuracy, cost, adaptive learning rate - 
